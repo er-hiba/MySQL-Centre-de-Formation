@@ -1,5 +1,6 @@
 ## Description
-This repository contains MySQL scripts related to a fictional training center ('Centre de Formation') database. The scripts include queries to create tables, insert data, and retrieve information for practice purposes. These scripts are part of my learning journey in MySQL. The data in the database, including table and field names, is in French.
+This repository contains MySQL scripts related to a fictional training center ('Centre de Formation') database. The scripts include queries to create tables, insert data, and retrieve information for practice purposes. These scripts are part of my learning journey in MySQL.  
+*The data in the database, including table and field names, is in French.*
 
 ## Tables Description
 - catalogue: Contains the mapping between specialty codes and formation codes.
